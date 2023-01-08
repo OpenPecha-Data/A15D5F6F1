@@ -1,0 +1,19 @@
+id: A15D5F6F1
+title: A Guru Yoga of Śavari
+type: translation
+pechas:
+- I5F4B78CF
+- IBFEFE15E
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:11:59.413664
+  last_modified_at: 2023-01-04 12:11:59.413675
+  collections:
+  - Jamyang Khyentse Chökyi Lodrö Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I5F4B78CF/E666: 0B19
+  IBFEFE15E/742D: 0B19
